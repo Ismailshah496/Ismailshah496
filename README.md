@@ -1,16 +1,20 @@
-## Hi there 👋
+ # Hi there! 👋 I'm Muhammad Ismail Shah  
 
-<!--
-**Ismailshah496/Ismailshah496** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Welcome to my GitHub Profile
+📍 From: Dera Ismail khan, Pakistan  
+🎓 BS Computer Science | UET Peshawar |Final year  
 
-Here are some ideas to get you started:
+🌟 About Me  
+- 💻 Aspiring Software Developer & AI Enthusiast 
+- 🤖 Working on Chatbot Creation, Machine Learning, and AI Model Development 
+- 🔭 Current Project: Flutter mobile app for AI-powered food redistribution to combat food waste and hunger  
+- 🌱 Always learning and exploring cutting-edge technologies  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⚡ My Skills & Interests  
+- Languages: Python, Dart, C++ ,Javascript 
+- AI & ML: Chatbots, Machine Learning, AI Model Development  
+- Mobile App Development: Flutter  
+- Other Interests: Social Impact Through Technology  
+
+
+🌟 _"Learning never stops, and every line of code brings me closer to my dreams."_  
